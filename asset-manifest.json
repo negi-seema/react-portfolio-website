@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-portfolio-website/static/js/main.ac26f812.js",
+    "static/js/787.66b477fd.chunk.js": "/react-portfolio-website/static/js/787.66b477fd.chunk.js",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.ac26f812.js.map": "/react-portfolio-website/static/js/main.ac26f812.js.map",
+    "787.66b477fd.chunk.js.map": "/react-portfolio-website/static/js/787.66b477fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ac26f812.js"
+  ]
+}
